@@ -37,4 +37,10 @@
 
 ![image](https://github.com/user-attachments/assets/dab023fa-cf3c-42ea-91bf-a2765886ad43)
 
+## Установка
 
+### Способ 1: Скачать готовую сборку
+1. Скачайте последнюю версию программы:  
+   [📦 FunPayCommissionCalc.zip](https://github.com/ghbladeshirro/FunPayCommissionCalc/archive/refs/heads/main.zip)
+2. Распакуйте архив в удобную папку
+3. Запустите файл `commission calc.exe`
